@@ -1,0 +1,1 @@
+This is a ReadMe file for TheAutoMeter app created by Rishabh Minocha in collabration with Hritik Sapra for the RiseHackathon
