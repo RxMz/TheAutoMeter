@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:text="Choose your city!"
+        android:textSize="30dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Delhi NCR"
+        android:id="@+id/btnDelhiNCR"
+        android:layout_marginTop="20dp"
+        android:background="#F50057"
+        android:textSize="20dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hyderabad"
+        android:id="@+id/btnHyd"
+        android:layout_marginTop="20dp"
+        android:background="#F50057"
+        android:textSize="20dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pune"
+        android:id="@+id/btnPun"
+        android:layout_marginTop="20dp"
+        android:background="#F50057"
+        android:textSize="20dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chennai"
+        android:id="@+id/btnChen"
+        android:background="#F50057"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"/>
+</LinearLayout>
